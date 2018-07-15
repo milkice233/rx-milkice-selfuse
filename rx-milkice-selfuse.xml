@@ -1,0 +1,5 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v2" type="broadcast" package="com.xiaomi.market">
+  <intent-filter>
+    <action name="com.xiaomi.market.data.MyPackageMonitor" />
+  </intent-filter>
+</prescription>
